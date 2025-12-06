@@ -1,0 +1,16 @@
+Order,scientificName,Common_Name,Taxon,Frequency
+Oligochaeta,,Worm,Order,1
+Diptera,,Blackfly_larvae,Order,1
+Coleoptera,dytiscidae,Diving_beetle,Family,1
+Hemiptera,Corixidae,Lesser Water Boatman,Family,4
+Odonata,zygoptera ,Damselfly_larvae,Suborder,2
+Odonata,anisoptera,Dragonfly_larvae,Infraorder,3
+Hemiptera,Notonectidae,Greater Water Boatman,Family,2
+Plecoptera,,Stonefly_larvae,Order,8
+Coleoptera,,Waterbeetle_larvae ,Order,1
+Coleoptera,,Waterbeetle ,Order,1
+Trichoptera,,Caddisfly_larvae,Order,1
+Ephemeroptera,,Mayfly_larvae,Order,4
+Plecoptera,,Stonefly_larvae,Order,1
+Trichoptera,,Caddisfly_case,Order,1
+Diptera,simuliidae,Blackfly_larvae,Family,1

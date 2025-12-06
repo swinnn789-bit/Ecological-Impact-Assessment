@@ -1,0 +1,8 @@
+Order,scientificName,Common_Name,Taxon,Frequency,BMWPscore
+Oligochaeta,,Worm,Order,1,1
+Diptera,,Blackfly larvae,Order,1,5
+Plecoptera,,Stonefly larvae,Order,8,7
+Coleoptera,,Waterbeetle larvae ,Order,1,5
+Coleoptera,,Waterbeetle ,Order,1,5
+Trichoptera,,Caddisfly larvae,Order,1,"5, 10"
+Ephemeroptera,,Mayfly larvae,Order,2,10

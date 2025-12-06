@@ -1,0 +1,12 @@
+Order,Scientific Name,Common_Name,Taxon ,Frequency
+Hymenoptera,Formicidae,Ant,Family,3
+Hemiptera,Aphididae,Aphid,Family,1
+Lepidoptera,Lepidoptera,Caterpillar,Order,1
+Diptera,Tipuloidea,Crane fly,Family,1
+Coleoptera,Geotrupes_stercorarius,Dor beetle,Species,1
+Lepidoptera,Euthrix_potatoria,Drinker moth,Species,1
+Homoptera,Homoptera,Insect,Order,2
+Araneae,Araneae,Spider,Order,12
+Thysanoptera,Thysanoptera,Thrip,Order,1
+Ixodida,Ixodoidea,Tick,Family,33
+Hemiptera,Hemiptera,True bug,Order,1

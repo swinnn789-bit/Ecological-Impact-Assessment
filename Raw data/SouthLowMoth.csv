@@ -1,0 +1,26 @@
+Order,Scientific_Name,Common_Name,Taxon,Frequency
+Lepidoptera,Denticucullus_pygmina,Small_wainscot,Species ,2
+Diptera,Tipula_paludosa,European_crane_fly,Species ,2
+Lepidoptera,Xestia_castanea,Neglected_rustic,Species ,1
+Trichoptera,Limnephilus_lunatus,Caddis_fly,Species ,2
+Lepidoptera,Dysstroma_truncata,Common_marbled_carpet,Species ,1
+Ixodida,Ixodes_ricinus,Sheep_tick ,Species ,1
+Julida,Tachypodoiulus_niger,White_legged_snake_millipede,Species ,1
+Lepidoptera,Xestia_xanthographa ,Square_spot_rustic ,Species ,12
+Lepidoptera,Colostygia_pectinataria,Green_carpet_moth,Species ,3
+Lepidoptera,Xestia_agathina ,Heath_rustic ,Species ,1
+Lepidoptera,Conistra_vaccinii,Chestnut_moth,Species ,1
+Lepidoptera,Xanthia_togata,Pink_barred_sallow_moth,Species ,1
+Lepidoptera,Denticucullus_pygmina,Small_wainscot,Species ,1
+Lepidoptera,Clubiona_Latreille,Leaf_curling_sac_spiders,Species ,1
+Lepidoptera,Dysstroma_truncata,Common_marbled_carpet,Species ,1
+Diptera,Sciaridae,Dark_winged_fungus_gnats ,Family,1
+Trichoptera,Limnephilus_lunatus,Cinnamon_sedge_caddisfly,Species ,1
+Diptera,Tipula_rufina,Crane_fly ,Species ,2
+Diptera,Tipula_paludosa/oleracea,Crane_fly,Order,10
+Diptera,Tipula_paludosa ,European_crane_fly,Species ,1
+Diptera,Tipula_oleracea ,Marsh_crane_fly ,Species ,1
+Trichoptera,Trichoptera,Caddis_fly,Order,1
+Hymenoptera,Cardrina_morpheus,Mottled_rustic,Species,1
+Diptera,Culicidae,Mosquito,Family,4
+Diptera,Tipuloidea,Crane_fly ,Super_family,1

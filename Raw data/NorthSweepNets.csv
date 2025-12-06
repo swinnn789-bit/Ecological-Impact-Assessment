@@ -1,0 +1,9 @@
+Order,Scientific_Name,Common_Name,Taxon,Frequency
+Hemiptera,Hemiptera,True_bug,Order,5
+Diptera,Diptera,Fly,Order,2
+Hemiptera,Hemiptera,True_bug,Order,1
+Hemiptera,Aphididae,Aphid,Family,1
+Hymenoptera,Formicidae,Ant,Family,1
+Hymenoptera,Formicidae,Ant,Family,1
+Ixodida,Ixodoidea,Tick,Family,6
+Hemiptera,Hemiptera,True_bug,Order,1

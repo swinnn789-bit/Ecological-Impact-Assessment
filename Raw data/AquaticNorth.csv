@@ -1,0 +1,20 @@
+Order,scientificName,Common_Name,Taxon,Frequency,BMWPscore
+Trichoptera,Hydropsychidae,Caddisfly larvae,Family,1,6
+Coleoptera,,Waterbeetle ,Order,3,5
+Oligochaeta,,Worm,Order,1,1
+Trichoptera,Philopotamidae,Caseless caddisfly larvae,Family,4,6
+Trichoptera,,Cased caddisfly larvae,Order,3,6
+Odonata,anisoptera,Dragonfly larvae,Family,1,6
+Plecoptera,,Stonefly larvae,Order,4,7
+Ephemeroptera,,Mayfly larvae,Order,2,7
+Coleoptera,,Waterbeetle ,Order,1,5
+Oligochaeta,,Worm,Order,2,1
+Odonata,anisoptera,Dragonfly larvae,Family,1,6
+Oligochaeta,,Worm,Order,3,1
+Plecoptera,,Stonefly larvae,Order,1,7
+Ephemeroptera,,Mayfly larvae,Order,3,7
+Coleoptera,,Waterbeetle larvae,Order,1,5
+Trichoptera,,Cased caddisfly larvae,Order,2,6
+Plecoptera,,Stonefly larvae,Order,2,7
+Ephemeroptera,,Mayfly larvae,Order,1,7
+Oligochaeta,,Worm,Order,1,1

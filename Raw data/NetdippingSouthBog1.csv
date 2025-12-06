@@ -1,0 +1,5 @@
+Order,scientificName,Common_Name,Taxon,Frequency,BMWPscore
+Ephemeroptera,,Mayfly larvae,Order,2,10
+Plecoptera,,Stonefly larvae,Order,1,7
+Trichoptera,,Caddisfly case,Order,1,"5, 10"
+Diptera,simuliidae,Blackfly larvae,Family,1,1

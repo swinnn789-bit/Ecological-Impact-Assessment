@@ -1,0 +1,10 @@
+Order,scientificName,Common_Name,Taxon,Frequency,BMWPscore
+Odonata,anisoptera,Dragonfly larvae,Family,1,
+Oligochaeta,,Worm,Order,3,1
+Plecoptera,,Stonefly larvae,Order,1,7
+Ephemeroptera,,Mayfly larvae,Order,3,10
+Coleoptera,,Waterbeetle larvae,Order,1,5
+Trichoptera,,Cased caddisfly larvae,Order,2,"5, 10"
+Plecoptera,,Stonefly larvae,Order,2,7
+Ephemeroptera,,Mayfly larvae,Order,1,10
+Oligochaeta,,Worm,Order,1,1
